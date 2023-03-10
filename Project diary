@@ -16,11 +16,34 @@
 4-composition(props.children)
 
 06-03-2023
-1-sync up meet at 12 pm
-2-Studied composition and how to oraganize the component file
+1-Studied composition 
+2-how to oraganize the component file
 3-Alternative function syntax
-4-started with state(useState Hook)
+4-started with state
 5-listening to events and working with event handlers
 6-working with State
-7-
+
+
+07-03-2023
+1-studied  useState Hook
+2-adding form inputs
+3-Listening to user inputs
+3-working with multiple states ang updating state that depends on previous state
+4-Handling form submission()
+5-adding two way binding(listen to input and also able to pass new value)
+6-HR meet at 4pm
+
+08-03-2023
+1-studied lifting state up
+2-Learned about child to parent communication(creating own custom form component)
+3-controlled and uncontrolled components ,statefull and stateless components
+4-Rendering list of data({} and map function)
+
+09-03-2023
+1-Learned about spread(...) operator and using spread operator in arraya.
+2-importance of 'keys'.
+3-filter() function
+4-conditional content (rendering different output in different condition.
+5-
+
    
